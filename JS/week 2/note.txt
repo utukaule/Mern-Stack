@@ -1,0 +1,10 @@
+Basics of backend
+    http servers
+        Client sever model
+        http servers
+        express
+    Authentication
+    databases
+    middlewares
+
+express, nodeJs, Intro to backend system
