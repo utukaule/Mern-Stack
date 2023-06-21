@@ -1,0 +1,17 @@
+BackEnd in 2nd week (Topics tobe covered).
+
+BackEnd 
+->  HTTP servers
+->  Authentication
+->  Database
+->  Middlewares
+
+HTTP servers
+->  Requres methods
+->  URL route
+->  Query params headers body
+->  Status code
+->  Response HTML JSON text
+->  Cores
+
+
